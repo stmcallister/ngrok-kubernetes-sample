@@ -1,2 +1,5 @@
 # ngrok-kubernetes-sample
-Sample project showcasing the ngrok Kubernetes Ingress Controller
+Sample projects showcasing the ngrok Kubernetes Ingress Controller
+
+* [burgers](burgers/) - c-sharp application running in two Docker containers and orchestrated by Kubernetes
+
